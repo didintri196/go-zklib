@@ -1,6 +1,7 @@
-# GOZK
+# GO-ZKLIB
 
-Get inspired from [this project](https://github.com/fananimi/pyzk)
+
+Development of the package [this project](https://github.com/canhlinh/gozk)
 
 GOZK is a library to help gopher interact with ZK fingerprint machine
 
