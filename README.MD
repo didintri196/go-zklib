@@ -3,7 +3,7 @@
 
 Development of the package [this project](https://github.com/canhlinh/gozk)
 
-GOZK is a library to help gopher interact with ZK fingerprint machine
+GO-ZKLIB is a library to help gopher interact with ZK fingerprint machine
 
 ## Features:
 
